@@ -1,0 +1,12 @@
+chassis_controller\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+chassis_controller\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+chassis_controller\port.o: D:\softwares\keil\ARM\ARMCC\Bin\..\include\stddef.h
+chassis_controller\port.o: D:\softwares\keil\ARM\ARMCC\Bin\..\include\stdint.h
+chassis_controller\port.o: ../Core/Inc/FreeRTOSConfig.h
+chassis_controller\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+chassis_controller\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+chassis_controller\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+chassis_controller\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+chassis_controller\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+chassis_controller\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+chassis_controller\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
